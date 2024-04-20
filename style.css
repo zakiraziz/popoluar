@@ -70,3 +70,61 @@ nav button {
     border-radius: 50px;
     border: none;
 }
+
+nav button svg {
+    height: 0.8vw;
+    margin-left: 1.6vw;
+}
+
+#nav-bottom {
+    width: 79%;
+    height: 0vh;
+    position: absolute;
+    /* background-color: red; */
+    top: 100%;
+    background-color: #111;
+    z-index: 9;
+    border-bottom: 1px solid #fff;
+}
+
+
+
+
+#page1 {
+    height: 100vh;
+    width: 100%;
+    background-color: #111;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+#page1 h1 {
+    font-size: 8.5vw;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 8.5vw;
+}
+
+#page1 h1 svg {
+    height: 6vw;
+    border-radius: 50%;
+    width: 6vw;
+
+    background-color: #0BA34E;
+}
+
+#page1 p {
+    text-align: center;
+    font-weight: 400;
+    margin-top: 3vh;
+    font-size: 1vw;
+}
+
+#page1-something {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
