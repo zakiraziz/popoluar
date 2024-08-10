@@ -1,8 +1,4 @@
 
-
-
-yte
-
 function locomotiveAnimation() {
     gsap.registerPlugin(ScrollTrigger);
 
