@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ <<<<<<< HEAD
 this informathis is about htmal General Overview
 Title: LAZAREV. 🪀 — Digital Product Design Agency | Award Winning UX & UI Agency
 Favicon: A GIF icon is used.
