@@ -5,7 +5,7 @@ Favicon: A GIF icon is used.
 CSS & JS Libraries:
 remixicon for icons
 locomotive-scroll for smooth scrolling effects
-GSAP for animations 
+GSAP for animations  
 Navigation
 Sections:
 Case Studies
