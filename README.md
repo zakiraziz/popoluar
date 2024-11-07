@@ -1,7 +1,7 @@
  <<<<<<< HEAD
 this informathis is about htmal General Overview 
 Title: LAZAREV. 🪀 — Digital Product Design Agency | Award Winning UX & UI Agency
-Favicon: A GIF icon is used.
+Favicon: A GIF icon is used. 
 CSS & JS Libraries: 
 remixicon for icons
 locomotive-scroll for smooth scrolling effects
