@@ -5,7 +5,7 @@ function locomotiveAnimation() {
     const locoScroll = new LocomotiveScroll({
         el: document.querySelector("#main"),
         smooth: true,
-
+ 
         // for tablet smooth
         tablet: { smooth: true },
 
