@@ -6,7 +6,7 @@ function locomotiveAnimation() {
         el: document.querySelector("#main"),
         smooth: true,
  
-        // for tablet smooth
+        // for tablet smooth 
         tablet: { smooth: true },
 
         // for mobile
